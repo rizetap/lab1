@@ -41,7 +41,7 @@ while True:
                 pygame.mixer.music.play()
                 if ch:
                     pygame.mixer.music.pause()
-
+            #предыдущая 
             if event.key == pygame.K_LEFT: 
                 pygame.mixer.music.stop()
                 if n>0: n-=1 
