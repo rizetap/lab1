@@ -1,5 +1,0 @@
- 
-    
-    pygame.display.flip()
-    clock.tick(spd)
-
